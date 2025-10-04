@@ -5,3 +5,7 @@ const sayName = () => {
     console.log("My Name is "+ name);
     
 }
+
+const newFeature = () => {
+  console.log("new branch feature added");
+};
