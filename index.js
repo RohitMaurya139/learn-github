@@ -7,5 +7,7 @@ const sayName = () => {
 }
 
 const newFeature = () => {
-  console.log("new branch feature added");
+    console.log("new branch feature added");
+        console.log("new branch feature added 2");
+
 };
